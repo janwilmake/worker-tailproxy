@@ -46,5 +46,5 @@ TODO:
 
 - Create authenticated cors-proxy (useful for anything)
 - Test UI and make it work, getting logs for requests to any worker, anywhere
-- Discuss why not OTEL ()
+- Discuss OTEL (node, extra complexity)
 - Need for tracing in service bindings too? https://lmpify.com/httpsuithubcomj-x6fpv60 also, check Durable Object logging support with the tail api.
