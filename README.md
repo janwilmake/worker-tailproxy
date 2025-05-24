@@ -44,5 +44,5 @@ The API token needs to have the "Workers Tail" permission for the specified acco
 
 TODO:
 
-- create authenticated cors-proxy (useful for anything)
-- test UI and make it work, getting logs for requests to any worker, anywhere
+- Create authenticated cors-proxy (useful for anything)
+- Test UI and make it work, getting logs for requests to any worker, anywhere
