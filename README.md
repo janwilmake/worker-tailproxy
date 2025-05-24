@@ -38,3 +38,7 @@ curl -X POST "https://worker-tailproxy.[your-worker-subdomain].workers.dev/" \
 
 The API token needs to have the "Workers Tail" permission for the specified account. The response will include all logs collected during the request in the `x-tail` header.
 
+# UI
+
+[![](https://b.lmpify.com/Making_A_UI)](https://lmpify.com/httpsuithubcomj-wwbl3d0)
+
