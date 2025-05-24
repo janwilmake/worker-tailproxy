@@ -25,6 +25,7 @@ Limitations: since this worker waits for the entire response body to be processe
 
 
 To use this worker, you need to make a request with the required headers:
+
 ```bash
 curl -X POST "https://worker-tailproxy.[your-worker-subdomain].workers.dev/" \
   -H "x-script: target-worker-name" \
@@ -34,5 +35,6 @@ curl -X POST "https://worker-tailproxy.[your-worker-subdomain].workers.dev/" \
   -H "Content-Type: application/json" \
   -d '{"example": "payload"}'
 ```
+
 The API token needs to have the "Workers Tail" permission for the specified account. The response will include all logs collected during the request in the `x-tail` header.
 

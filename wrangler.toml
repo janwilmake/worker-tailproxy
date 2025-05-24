@@ -2,3 +2,4 @@ name = "worker-tailproxy"
 compatibility_date = "2025-05-24"
 main = "main.js"
 dev.port = 3000
+assets.directory = "./"
