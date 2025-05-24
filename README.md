@@ -42,3 +42,7 @@ The API token needs to have the "Workers Tail" permission for the specified acco
 
 [![](https://b.lmpify.com/Making_A_UI)](https://lmpify.com/httpsuithubcomj-wwbl3d0)
 
+TODO:
+
+- create authenticated cors-proxy (useful for anything)
+- test UI and make it work, getting logs for requests to any worker, anywhere
