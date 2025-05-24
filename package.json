@@ -1,5 +1,5 @@
 {
-    "dependencies": {},
-    "scripts":{
-    }
+  "devDependencies": {
+    "@cloudflare/workers-types": "^4.20250524.0"
+  }
 }
